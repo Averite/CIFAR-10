@@ -74,3 +74,4 @@ for i in range(epoch):
     print("model saved")
 
 writer.close()
+#tensorboard --logdir=logs/fit
